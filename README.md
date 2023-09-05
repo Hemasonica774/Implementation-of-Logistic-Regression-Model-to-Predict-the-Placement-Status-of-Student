@@ -79,13 +79,21 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ![image](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/8d61da1d-6b43-474b-90d3-0a2c4ce4e895)
+
 ![Screenshot 2023-08-31 093631](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/6eda955e-54d3-46f9-aea7-b9f756aad8e4)
+
 ![Screenshot 2023-08-31 093640](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/e4e1589c-3892-4cbf-b56e-b0e1a87957f9)
+
 ![Screenshot 2023-08-31 093647](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/79e50669-816f-4168-9601-c5e4fc1fe3a3)
+
 ![Screenshot 2023-08-31 093703](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/3fa84ca6-67f9-493b-b7af-0671840b1840)
+
 ![Screenshot 2023-08-31 093717](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/e78928c4-226b-44be-b124-d83b5ec653cc)
+
 ![Screenshot 2023-08-31 093730](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/5452b5a1-82fe-4956-8107-bd374bb9cfd7)
+
 ![Screenshot 2023-08-31 093744](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/8f52299e-9254-4e04-a145-54220d84a0a8)
+
 ![Screenshot 2023-08-31 093759](https://github.com/Hemasonica774/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118361409/e60f735e-5654-45e4-b22c-aabe93de45b6)
 
 
